@@ -1,2 +1,2 @@
 # HelloWorld
-My first readme file
+My first readme file, aims at getting to know git
